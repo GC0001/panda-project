@@ -1,6 +1,6 @@
 <style>
-a.navbar-brand {
-  background: url("https://user-images.githubusercontent.com/88863269/141712570-34569f48-5561-4979-a6f1-f634d1c60b99.png") no-repeat; 
+a.navbar-brand img {
+  // background: url("https://user-images.githubusercontent.com/88863269/141712570-34569f48-5561-4979-a6f1-f634d1c60b99.png") no-repeat; 
   height: 50px;
   width: 50px;
 }
