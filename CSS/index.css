@@ -1,4 +1,10 @@
 <style>
+.navbar-brand {
+  max-height: 100px;
+  max-width: 100px;
+  object-fit: cover;
+}
+
 .footer {
   position: fixed;
   left: 0;
